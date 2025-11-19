@@ -1,0 +1,6 @@
+Breadcrumbs 'Parallel'
+ - CopyCardsToSurfaceCache
+ - LumenSceneUpdate: 33 card captures 0.179M texels
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 629
